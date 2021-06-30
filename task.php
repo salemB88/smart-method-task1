@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
+ 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -17,32 +17,7 @@ background-color: #0250c5;    }
     .button-super{
         position: relative;
     }
-    .btn-1{
-        position: absolute;
-        left: 10px;
-        top:65px;
-    }
-    .btn-2{
-        position: absolute;
-        left: 40px;
-        top:65px;
-    }
-    .btn-3{
-        position: absolute;
-   
-        left: -50px;
-        top:125px
-    }
-    .btn-4{
-        position: absolute;
-        left: -135px;
-        top: 5px;
-    }
-    .btn-5{
-        position: absolute;
-        left: -110px;
-        top:65px;
-    }
+    
     .container{
         height: 600px;
     }
